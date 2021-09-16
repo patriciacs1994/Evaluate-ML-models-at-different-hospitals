@@ -2,7 +2,7 @@
 
 Code to complement the evaluation presented in "An evaluation of ML based clinical risk prediction applications in different hospitals". 
 
-### 1. Code organization
+### 1. Data sharing
 
 The patient data used in this evaluation from the three hospitals cannot be made publicly available due to patient protection.
 

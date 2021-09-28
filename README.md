@@ -19,3 +19,6 @@ This part contains two notebooks `3-Model_performance_in_live_clinical_setting_w
 
 #### 2.4 Model performance simulation 
 This section also contains two notebooks `5-Simulate_model_performance_in_the_live_clinical_workflow` and `6-Simulate_model_performance_in_the_live_clinical_workflow-cross_hospital_evaluation`. As before, those notebooks simulates the risk prediction during a medical stay in the live EHR system in two different situations (model trained and evaluated in the same hospital or in a different one). 
+
+#### 2.4 Model performance comparison
+The notebook `7-Visualization` shows the differences between the live and the retrospective evaluation as well as the performance degradation in cross-hospital evaluation.

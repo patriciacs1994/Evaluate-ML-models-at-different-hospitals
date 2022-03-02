@@ -22,3 +22,6 @@ This section also contains two notebooks `5-Simulate_model_performance_in_the_li
 
 #### 2.4 Model performance comparison
 The notebook `7-Visualization` shows the differences between the live and the retrospective evaluation as well as the performance degradation in cross-hospital evaluation.
+
+#### 2.5 Model Calibration and Decision Curve
+This part contains the notebook `8-Model_calibration_decision_curve`. It shows the calibration curve, which evaluates the reliability of the estimated riks of our model and the decision curve, which measures the clinical utility of our predictive model.
